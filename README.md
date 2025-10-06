@@ -24,18 +24,28 @@ Where θ and φ are spherical coordinates analogous to latitude and longitude on
 
 ## Physical Implementations
 Multiple platforms can realize qubits:
+
 PlatformExample CompaniesPhysical SystemSuperconductingIBM, Google, RigettiJosephson junctionsTrapped IonIonQ, 
+
 QuantinuumIndividual ions in EM fieldsNeutral AtomQuEra, PasqalCold atoms in optical latticesSpin QubitsIntelElectron/nuclear spins.
 
 ## The Measurement Paradox
 Here's what makes qubits counterintuitive:
+
+
 Before measurement: A qubit exists in superposition—simultaneously 0 AND 1
+
 After measurement: The qubit collapses to either 0 OR 1 probabilistically
+
 Example: The Equal Superposition State
+
 |+⟩ = (1/√2)|0⟩ + (1/√2)|1⟩
+
 This state yields:
 
+
 50% probability of measuring 0
+
 50% probability of measuring 1
 
 The paradox: We can't directly observe quantum states, yet we can manipulate them deliberately to produce specific measurement patterns.
@@ -43,10 +53,15 @@ The paradox: We can't directly observe quantum states, yet we can manipulate the
 ## Key Insights
 
 The "Red Apples" Analogy
+
 Question: Are apples red?
+
 Classical Computing: TRUE (definitive answer)
+
 Quantum Computing: 8/10 times YES, 2/10 times NO → Probabilistic conclusion: "Apples are likely red"
+
 Why Use Half-Angles (θ/2)?
+
 Global Phase Irrelevance
 
 ## Learning Resources

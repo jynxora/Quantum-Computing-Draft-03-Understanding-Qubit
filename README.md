@@ -74,6 +74,9 @@ Quantum Soar YouTube Series
 
 Bloch Sphere - Wikipedia
 
+### READ the draft:
+https://github.com/jynxora/Quantum-Computing-Draft-03-Understanding-Qubit/blob/main/Draft03-UnderstandingQubits.pdf
+
 ## What's Next?
 Understanding qubits is just the beginning. Next steps:
 

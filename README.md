@@ -67,14 +67,21 @@ Global Phase Irrelevance
 ## Learning Resources
 
 University of Waterloo - Quantum 101
+
 Nielsen & Chuang - Quantum Computation and Quantum Information
+
 Quantum Soar YouTube Series
+
 Bloch Sphere - Wikipedia
 
 ## What's Next?
 Understanding qubits is just the beginning. Next steps:
 
+
 Multi-qubit systems and entanglement
+
 Quantum gates and circuits
+
 Quantum algorithms (Deutsch-Jozsa, Grover's, Shor's)
+
 Error correction and decoherence

@@ -16,8 +16,10 @@ Equator: Superposition states like |+⟩, |-⟩, |i⟩, |-i⟩
 Mathematical Representation
 |ψ⟩ = α|0⟩ + β|1⟩
 
-Parametric Form
+Parametric Form:
+
 |ψ⟩ = cos(θ/2)|0⟩ + e^(iφ)sin(θ/2)|1⟩
+
 Where θ and φ are spherical coordinates analogous to latitude and longitude on the Bloch sphere.
 
 ## Physical Implementations

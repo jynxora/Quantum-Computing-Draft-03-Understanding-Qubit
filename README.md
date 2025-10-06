@@ -8,7 +8,9 @@ The Bloch Sphere Representation
 A qubit |ψ⟩ can be visualized on the Bloch sphere:
 
 North Pole: |0⟩ state (ground state)
+
 South Pole: |1⟩ state (excited state)
+
 Equator: Superposition states like |+⟩, |-⟩, |i⟩, |-i⟩
 
 Mathematical Representation
